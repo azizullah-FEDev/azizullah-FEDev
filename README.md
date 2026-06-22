@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aziz Ullah
 
-🎓 Web development intern at SparkingAsia
+🎓 Web development intern at SparkingAsia  
 🌱 Currently learning: HTML,CSS,JS & React  
 🎯 Goal: Become a full stack developer  
 📍 Rawalpindi, Pakistan  
